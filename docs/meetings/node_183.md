@@ -1,0 +1,11 @@
+# Source: https://fultonamateurradioclub.org/node/183
+
+[![-](/sites/default/files/styles/max_325x325/public/field/image/Picture1_0.jpg?itok=LMyknZPj)](/node/183)
+Many of you have probably heard me talk about my home-brew antenna masts.  A number of years back I came up with a simple, cheap and apparently durable, unit. This design will give you a mast that is almost 30’ high and will tilt over for attaching antennas while on the ground.  I have built two of these masts, one at my home in Phoenix and one at our camp just west of Oswego.
+The mast at home has a 2meter / 70 cm copper pipe J-Pole on top. It also  originally supported the balun for a Carolina Windom. The squirrels, however, decided they liked the taste of the coax feeding the Windom so it has been replaced by Random Length Long Wire for now. The original Windom along with a third line serve as a guy triangle to keep the mast upright.
+The mast at our camp is attached to the building about 8’ off the ground and is free standing for the remainder of its height supporting another copper pipe JPole on top. That setup has withstood 5 years of Lake Ontario storms with little if any damage.
+I have attached a drawing Illustrating my design.  The feature that makes it TipOver is the arrangement of 1” pipe fittings.  The 2 elbows attached to the central “T” with close nipples allow the “T” to pivot letting the mast tip over. The lengths of pipe that extend at least 2’ down into the ground from the elbows anchor the bottom of the mast.  The J-Poles are electrically connected to the metal masts and I’m sure provide some  lightning protection.
+The Carolina Windom is designed to allow its feed line to radiate so the PVC triangle was installed at the Phoenix site to hold it away from the metal mast. The 2 Tee’s on the vertical part are separated by a section of PVC pipe to complete the triangle. The whole triangle assembly is held in place with hose clamps. The details of each installation are left to the builder.
+Even though you can tilt the mast over it is pretty heavy, especially with the triangular stand-off arm at the top, so I added a pulley with halyard for hauling wire antennas up and down.
+Tags
+[newsletter](/taxonomy/term/46)

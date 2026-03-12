@@ -1,0 +1,16 @@
+# Source: https://fultonamateurradioclub.org/skywarn
+
+![](/sites/default/files/inline-images/1200px-Skywarn.svg_.png)
+SKYWARN® is a National Weather Service (NWS) program developed in the  1960s that consists of trained weather  spotters who provide reports of  severe and hazardous weather to help meteorologists make life-saving  warning decisions. Spotters are  concerned citizens, amateur radio  operators, truck drivers, mariners, airplane pilots, emergency  management personnel, and public safety  officials who volunteer their  time and energy to report on hazardous  weather impacting their  community.
+  NWS encourages anyone  with an interest in public service and access to communication, such HAM radio, to join the SKYWARN® program. Volunteers include police and fire personnel, dispatchers, EMS workers, public utility workers and other concerned private citizens.  Individuals affiliated with hospitals,  schools, churches, nursing homes  or who have a responsibility for  protecting others are also encouraged  to become a spotter.
+  For more information on SKYWARN® you can go to [http://www.weather.gov/buf/Skywarn](https://web.archive.org/web/20221203192118/http://www.weather.gov/buf/Skywarn)
+Skywarn® and the Skywarn®  logo are registered trademarks of the National Oceanic and Atmospheric  Administration, used with permission.
+---
+![](/sites/default/files/inline-images/wrn_logo191x120.png)
+**NOAA’s Weather-Ready Nation is about readying your community for extreme weather, water, and climate events.**
+The devastating impacts of extreme events like record breaking snowfall, violent tornadoes, destructive hurricanes, widespread flooding, and devastating drought can be reduced by taking advanced action, which is why the Weather-Ready Nation initiative is so important.
+**What is NOAA doing to build a Weather-Ready Nation?**
+NOAA’s National Weather Service is transforming its operations to help America respond. Offices now provide forecast information in a way that better  supports emergency managers, first responders, government officials,  businesses and the public make fast, smart decisions to save lives and  property and enhance livelihoods.
+  NOAA’s Office of Oceanic and Atmospheric Research and National Environmental Satellite, Data, and Information Service are moving new science and technology into National  Weather Service operations that will improve forecasts and ultimately  increase weather-readiness.
+  While we at NOAA are taking steps towards building a Weather-Ready Nation, ***we can not do it alone!*** Weather-Ready Nation can help start a dialog within our local communities that will  ultimately reduce the risk of being adversely impacted by extreme  weather and water events and increase community resilience (the ability to recover) for future extreme events.
+  Whether talking about preparedness and resilience in your home, office, at community centers, within schools or local businesses, on your website, or on social media, you will be helping to spread the word, inspire others to take action, and helping our great nation become more weather-ready.
