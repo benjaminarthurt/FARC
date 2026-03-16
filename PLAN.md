@@ -221,7 +221,7 @@ Every page shares a common HTML skeleton:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>[Page Title] — Fulton Amateur Radio Club (W2OSC)</title>
+  <title>[Page Title] — Fulton Amateur Radio Club (W2CXV)</title>
 
   <!-- SEO Meta Tags (see Section 8) -->
   <meta name="description" content="[page-specific description]">
@@ -529,10 +529,10 @@ Since GitHub Pages has no server, search will use a pre-built JSON index:
 
 | Page | Title | Description (≤155 chars) |
 |------|-------|--------------------------|
-| Home | `Fulton Amateur Radio Club (W2OSC) — Fulton, NY` | `The Fulton Amateur Radio Club meets monthly in Fulton, NY. Join us for ham radio education, emergency communications, and community events.` |
+| Home | `Fulton Amateur Radio Club (W2CXV) — Fulton, NY` | `The Fulton Amateur Radio Club meets monthly in Fulton, NY. Join us for ham radio education, emergency communications, and community events.` |
 | About | `About FARC — Founded 1957 \| Fulton Amateur Radio Club` | `Learn about the Fulton Amateur Radio Club, founded in 1957. Meet our officers, charter members, and discover our 65-year community mission.` |
 | License Courses | `Ham Radio License Courses & Exams — Fulton, NY` | `Free Technician and General class instruction in Oswego County, NY. Exam sessions every 4th Wednesday at 6PM. Pre-registration required.` |
-| Repeaters | `FARC Repeaters (W2OSC, K2QQY) — Frequency & Net Schedule` | `Fulton Amateur Radio Club repeaters: 147.150, 146.850, and 442.350 MHz. Nets, frequencies, PL tones, and locations for Oswego County, NY.` |
+| Repeaters | `FARC Repeaters (W2CXV, K2QQY) — Frequency & Net Schedule` | `Fulton Amateur Radio Club repeaters: 147.150, 146.850, and 442.350 MHz. Nets, frequencies, PL tones, and locations for Oswego County, NY.` |
 | RACES | `RACES — Emergency Communications \| Fulton ARC` | `Fulton ARC's Radio Amateur Civil Emergency Service (RACES) provides volunteer communications for Oswego County emergency management.` |
 | SKYWARN | `SKYWARN — Volunteer Weather Spotters \| Fulton ARC` | `Fulton ARC supports the NWS SKYWARN® program, training volunteer weather spotters for hazardous weather reporting in Central New York.` |
 | Scholarship | `W2TQF Memorial Scholarship — $500 Annual Award` | `The Thomas G. Cantine Jr. W2TQF Memorial Scholarship awards $500 annually to licensed ham radio students in Oswego, Onondaga, Cayuga, or Jefferson County.` |
@@ -651,7 +651,7 @@ Use the `RadioStation` schema to mark up each repeater:
 {
   "@context": "https://schema.org",
   "@type": "RadioStation",
-  "name": "W2OSC 147.150 MHz Repeater",
+  "name": "W2CXV 147.150 MHz Repeater",
   "frequency": "147.150 MHz",
   "broadcastAffiliateOf": { "@type": "Organization", "name": "Fulton Amateur Radio Club" }
 }

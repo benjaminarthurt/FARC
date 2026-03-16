@@ -1,11 +1,11 @@
 # Source: https://fultonamateurradioclub.org/repeaters
 
-## **147.150 Repeater W2OSC**
+## **147.150 Repeater W2CXV**
 **Receive 147.150, transmit 147.750, Channel guard 103.5.**
 The repeater is located at the Scriba Site approximately ½ mile East of the intersection of County Routes 29 and 51A. (43º 27.336 North x 76º 22.482 West)  Antenna is a four bay DB-234 mounted approximately 685 feet above sea level.  Approximately 20 Watts.
 Fred Koch, KA2HPG, is the repeater trustee. The repeater is open and available for all normal amateur activity. The repeater is part of the communications back up plan for the power company and during emergencies all stations are asked to exercise patience and good operating practices, giving emergency  traffic priority use.
 For information contact the OCEC/RACES Radio Officer.
-## **146.850 Repeater W2OSC**
+## **146.850 Repeater W2CXV**
 **Receive 146.850, transmit 146.250, Channel guard not turned on but will be 103.5 if needed.**
 The repeater is located at the Oswego County Airport on Route 176  North. A modified GE MASTR II with a NHRC Controller. Approximately  25 Watts.
 The repeater is provided and owned by Oswego County Emergency Management Office, OCEC/RACES. For information contact the  Radio Officer.
