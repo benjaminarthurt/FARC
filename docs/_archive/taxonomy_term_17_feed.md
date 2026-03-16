@@ -95,7 +95,7 @@ http://fultonamateurradioclub.org/content/club-christmas-party-2
 <p>Fried or broiled Haddock dinner $14.99</p>
 <p>Eggplant Parm $15.99</p>
 <p>We hope to see everyone on December 1st. Please email me your choice by November 22nd so I can let the restaurant know what groceries to have on hand.</p>
-<p>RSVP to: Judy K2SUM <a href="mailto:jlamay@twcny.rr.com">jlamay@twcny.rr.com</a></p>
+<p>RSVP to: Judy K2SUM</p>
 </div>
 </section>
 <section class="block block-layout-builder block-field-blocknodeeventsfield-date clearfix">
@@ -222,7 +222,7 @@ http://fultonamateurradioclub.org/content/club-christmas-party-2016
 <p>Prime Rib&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<wbr>&nbsp; $22.49</p>
 <p>Seafood Platter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $24.99</p>
 <p>Chicken Parm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $19.99</p>
-<p>Our speaker is Jim Farfaglia. He will speak on the history of Oswego County Search and Rescue. Please email Judy at <a href="mailto:jlamay@twcny.rr.com" target="\_blank">jlamay@twcny.rr.com</a> with your reservations by <span data-term="goog\_637419166" tabindex="0">November 28th</span>.</p>
+<p>Our speaker is Jim Farfaglia. He will speak on the history of Oswego County Search and Rescue. Please contact Judy with your reservations by <span data-term="goog\_637419166" tabindex="0">November 28th</span>.</p>
 <p>Hope to see you there.</p>
 </div>
 </section>
@@ -240,7 +240,7 @@ http://fultonamateurradioclub.org/content/club-christmas-party-2016
 </div>
 </section>
 <section class="block block-layout-builder block-field-blocknodeeventsfield-contact-email clearfix">
-<div class="field field--name-field-contact-email field--type-email field--label-hidden field--item"><a href="mailto:jlamay@twcny.rr.com">jlamay@twcny.rr.com</a></div>
+<div class="field field--name-field-contact-email field--type-email field--label-hidden field--item"></div>
 </section>
 <section class="block block-layout-builder block-field-blocknodeeventsfield-cost clearfix">
 <div class="field field--name-field-cost field--type-string-long field--label-hidden field--item">Cost of personal meal.<br>

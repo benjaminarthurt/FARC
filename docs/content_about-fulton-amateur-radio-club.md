@@ -12,11 +12,11 @@ Mike Raddell - KD2NVF
 **Treasurer:**
 Rick Boutell - WA2LBE
 **RACES Officer:**
-Michael Regan - KD2DVC - [email protected]
+Michael Regan - KD2DVC
 **Club Historian:**
 Julie Hopman
 **Webmaster & Public Service Coordinator:**
-Ben Townsend - AK2X - ak2x@arrl.net
+Ben Townsend - AK2X
 **Club Newsletter & Exam Information:**
 Garret Wickoff - Session Manager - my.news@gawikoff.net
 The Fulton Amateur Radio Club does not have a (postal) mailing address.
