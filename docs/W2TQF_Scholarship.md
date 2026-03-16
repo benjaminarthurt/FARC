@@ -12,18 +12,18 @@ The $500 award will be paid in full to the student after successfully completion
 3. The applicant must be accepted into an accredited college or technical school.  The applicant may be a graduating high school senior or a current undergraduate college student.
 4. The applicant must be pursuing a degree in electronics, engineering, communications, broadcasting, computer science, medical, or business-related field.
 5. The applicant must submit a completed scholarship application and include at least two (2) letters of recommendation from any combination of the following: employer, teacher, clergy, neighbor, or friend.  Persons serving as references cannot be related to the applicant.
-6. The completed application must be received by May 30, 2025.
-**The Scholarship Application Download** [**Here**](https://www.fultonamateurradioclub.org/scholarship/application.pdf "Scholarship Application")
+6. The completed application must be received by May 29, 2026.
+**The Scholarship Application Download** [**Here**](/scholarship/application.pdf "Scholarship Application")
 **All scholarship information should be sent to:**
 **The Thomas Cantine Jr W2TQF Memorial Scholarship, 2807 County Route 45, Fulton NY 13069**
 Scholarship questions to Pamela Cantine: [[email protected]](/cdn-cgi/l/email-protection#d6a6b5b7b8a2bfb8b396b1bbb7bfbaf8b5b9bb) or phone 315-592-9305.
 ---
 **The Thomas Cantine Jr W2TQF Memorial Scholarship**
-The applicant must hold an active amateur radio license (any class). Proof of license is required; a copy must be enclosed with the application. The applicant must live in one of the following Central New York counties: Oswego, Onondaga, Cayuga or Jefferson County. Copy of license will verify address of applicant. The applicant must be accepted into an accredited college or technical school. The applicant may be a graduating high school senior or a current undergraduate college student. The applicant must be pursuing a degree in electronics, engineering, communications, broadcasting, computer science, medical or business-related fields. The applicant must complete the scholarship application and also include at least two (2) letters of recommendation. The written recommendations can be from an employer, teacher, clergy, neighbor or friend. The reference cannot be related to the applicant. The completed application (including the recommendations) must be mailed to the address provided and must be received by **May 30, 2025.**
+The applicant must hold an active amateur radio license (any class). Proof of license is required; a copy must be enclosed with the application. The applicant must live in one of the following Central New York counties: Oswego, Onondaga, Cayuga or Jefferson County. Copy of license will verify address of applicant. The applicant must be accepted into an accredited college or technical school. The applicant may be a graduating high school senior or a current undergraduate college student. The applicant must be pursuing a degree in electronics, engineering, communications, broadcasting, computer science, medical or business-related fields. The applicant must complete the scholarship application and also include at least two (2) letters of recommendation. The written recommendations can be from an employer, teacher, clergy, neighbor or friend. The reference cannot be related to the applicant. The completed application (including the recommendations) must be mailed to the address provided and must be received by **May 29, 2026.**
 |  |  |  |
 | --- | --- | --- |
 | **Downloads - PDF Files** | | Send completed application to:  **The Thomas Cantine Jr W2TQF Memorial Scholarship**  **2807 County Route 45**  **Fulton NY 13069** |
-| [**Application**](https://www.fultonamateurradioclub.org/scholarship/application.pdf) | [**Information**](https://www.fultonamateurradioclub.org/scholarship/info.pdf) |
-All application materials must be received by **May 30, 2025.**  Applications will not be accepted via email.
+| [**Application**](/scholarship/application.pdf) | [**Information**](/scholarship/info.pdf) |
+All application materials must be received by **May 29, 2026.**  Applications will not be accepted via email.
 The Fulton Amateur Radio Club would like to thank you for applying for the Thomas G. Cantine Jr W2TQF
 Memorial Scholarship.
