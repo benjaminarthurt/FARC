@@ -243,10 +243,18 @@ p:last-child { margin-bottom: 0; }
 .hero-strip {
   background: var(--color-primary);
   color: var(--color-text-inverse);
-  padding: 2rem 0;
+  padding: 2.5rem 0;
+  text-align: center;
 }
 .hero-strip h1 { color: var(--color-text-inverse); margin-bottom: 0.25rem; }
 .hero-strip .tagline { font-size: 1rem; opacity: 0.85; margin: 0; }
+
+/* === HERO LOGO === */
+.hero-logo {
+  display: block;
+  margin: 0 auto 1.25rem;
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,0.35));
+}
 
 /* === CONTENT AREA === */
 .content-section { padding: 2.5rem 0; }
@@ -480,7 +488,8 @@ input[type="text"]:focus, input[type="email"]:focus, select:focus, textarea:focu
 .page-header {
   background: var(--color-primary);
   color: var(--color-text-inverse);
-  padding: 2rem 0;
+  padding: 2.5rem 0;
+  text-align: center;
 }
 .page-header h1 { color: var(--color-text-inverse); margin-bottom: 0.25rem; }
 .page-header p { color: rgba(255,255,255,0.8); margin: 0; font-size: 0.95rem; }
