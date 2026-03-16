@@ -56,8 +56,7 @@
     if (!href) return;
     try {
       var url = new URL(href, window.location.href);
-      var isExternal = url.hostname !== 'fultonamateurradioclub.org' &&
-                       !url.hostname.endsWith('.fultonamateurradioclub.org');
+      var isExternal = url.hostname !== window.location.hostname;
       if (isExternal && (url.protocol === 'http:' || url.protocol === 'https:')) {
         if (!a.hasAttribute('target')) {
           a.setAttribute('target', '_blank');
