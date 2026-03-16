@@ -8,17 +8,17 @@ Ken Ellsworth - N2GFG
 **Vice President:**
 Dave Granoff - K3AS
 **Secretary:**
-Ben Townsend - AK2X - [email protected]
+Mike Raddell - KD2NVF
 **Treasurer:**
 Rick Boutell - WA2LBE
 **RACES Officer:**
 Michael Regan - KD2DVC - [email protected]
 **Club Historian:**
 Julie Hopman
-**Webmaster:**
-Ben Townsend - AK2X - [[email protected]](/cdn-cgi/l/email-protection#3a5b5108427a5b51084214595557)
+**Webmaster & Public Service Coordinator:**
+Ben Townsend - AK2X - ak2x@arrl.net
 **Club Newsletter & Exam Information:**
-Garret Wickoff - Session Manager - [email protected]
+Garret Wickoff - Session Manager - my.news@gawikoff.net
 The Fulton Amateur Radio Club does not have a (postal) mailing address.
 ---
 The primary purposes of the Fulton Amateur Radio Club are to foster interest in radio/electronics, provide license training and testing, and promote the use of Amateur Radio for emergency communications.
