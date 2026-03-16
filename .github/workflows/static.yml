@@ -32,7 +32,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
+      - name: Fix asset paths for subdirectory deployment
+        run: |
+          BASE_PATH="${{ steps.pages.outputs.base_path }}"
+          if [ -n "$BASE_PATH" ] && [ "$BASE_PATH" != "/" ]; then
+            echo "Prefixing absolute paths with base path: $BASE_PATH"
+            find . -name "*.html" -not -path "./.git/*" \
+              -exec sed -i \
+                -e "s|href=\"/|href=\"${BASE_PATH}/|g" \
+                -e "s|src=\"/|src=\"${BASE_PATH}/|g" \
+                {} \;
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
