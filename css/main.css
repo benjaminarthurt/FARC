@@ -104,7 +104,7 @@ p:last-child { margin-bottom: 0; }
   color: var(--color-primary);
   flex-shrink: 0;
 }
-.site-logo img { border-radius: 50%; }
+.site-logo img { display: block; }
 .site-brand { display: flex; flex-direction: column; line-height: 1.2; }
 .site-name { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; color: var(--color-primary); }
 .site-callsign { font-size: 0.75rem; color: var(--color-accent); }
