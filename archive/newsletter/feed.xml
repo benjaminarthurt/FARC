@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fulton Amateur Radio Club — Newsletter</title>
+    <link>https://fultonamateurradioclub.org/archive/newsletter/</link>
+    <description>Newsletter articles from the Fulton Amateur Radio Club (W2OSC)</description>
+    <language>en</language>
+    <atom:link href="https://fultonamateurradioclub.org/archive/newsletter/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ARISS Program</title>
+      <link>https://fultonamateurradioclub.org/meetings/184/</link>
+      <description>Potential live chat session with the ISS at Oswego School District.</description>
+      <pubDate>Tue, 27 Feb 2024 20:31:40 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/184/</guid>
+    </item>
+    <item>
+      <title>Construction Project</title>
+      <link>https://fultonamateurradioclub.org/meetings/183/</link>
+      <description>Home-brew antenna mast design — nearly 30 ft high, tilts over for attaching antennas.</description>
+      <pubDate>Tue, 27 Feb 2024 20:28:08 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/183/</guid>
+    </item>
+    <item>
+      <title>Happy New Year</title>
+      <link>https://fultonamateurradioclub.org/meetings/182/</link>
+      <description>St. Patrick's Day Parade — RAGS looking for Hams to support communications.</description>
+      <pubDate>Tue, 27 Feb 2024 19:06:09 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/182/</guid>
+    </item>
+    <item>
+      <title>Ham-fest Season</title>
+      <link>https://fultonamateurradioclub.org/meetings/181/</link>
+      <description>Attended the Skyline Amateur Radio Club Ham fest in Marathon, NY.</description>
+      <pubDate>Tue, 27 Feb 2024 18:38:15 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/181/</guid>
+    </item>
+    <item>
+      <title>FARC Club Christmas Party</title>
+      <link>https://fultonamateurradioclub.org/meetings/180/</link>
+      <description>Annual Christmas Party with presentation on the natural history of Lake Ontario.</description>
+      <pubDate>Tue, 27 Feb 2024 18:30:03 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/180/</guid>
+    </item>
+    <item>
+      <title>Public Service</title>
+      <link>https://fultonamateurradioclub.org/meetings/179/</link>
+      <description>FARC supported the Annual 5K Reindeer Run/Walk around downtown Oswego.</description>
+      <pubDate>Tue, 27 Feb 2024 18:25:59 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/179/</guid>
+    </item>
+    <item>
+      <title>Repeater Status</title>
+      <link>https://fultonamateurradioclub.org/meetings/178/</link>
+      <description>Current repeater status update.</description>
+      <pubDate>Tue, 27 Feb 2024 18:23:09 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/178/</guid>
+    </item>
+    <item>
+      <title>Happy Holidays</title>
+      <link>https://fultonamateurradioclub.org/meetings/177/</link>
+      <description>Christmas party recap and repeater relocation update.</description>
+      <pubDate>Tue, 27 Feb 2024 18:19:07 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/177/</guid>
+    </item>
+    <item>
+      <title>NEW HAM</title>
+      <link>https://fultonamateurradioclub.org/meetings/175/</link>
+      <description>Congratulations to our newest Ham, Lorin Darling KE2BSW.</description>
+      <pubDate>Thu, 26 Oct 2023 12:40:01 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/175/</guid>
+    </item>
+    <item>
+      <title>ARRL FIELD DAY / NOT!</title>
+      <link>https://fultonamateurradioclub.org/meetings/174/</link>
+      <description>Field Day 2023 called off due to thunder and lightning.</description>
+      <pubDate>Thu, 26 Oct 2023 12:25:12 +0000</pubDate>
+      <guid>https://fultonamateurradioclub.org/meetings/174/</guid>
+    </item>
+  </channel>
+</rss>

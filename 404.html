@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting… — Fulton Amateur Radio Club</title>
+  <script>
+  (function() {
+    var REDIRECTS = {
+      "/2024-General-Course": "/license-courses/",
+      "/W2TQF_Scholarship": "/scholarship/",
+      "/content/about-fulton-amateur-radio-club": "/about/",
+      "/content/license-courses": "/license-courses/",
+      "/content/christmas-party-2013": "/events/christmas-party/",
+      "/content/club-christmas-party-1": "/events/christmas-party/",
+      "/content/club-christmas-party-2": "/events/christmas-party/",
+      "/content/club-christmas-party-2016": "/events/christmas-party/",
+      "/content/club-christmas-party": "/events/christmas-party/",
+      "/content/club-picnic-1": "/events/club-picnic/",
+      "/content/club-picnic": "/events/club-picnic/",
+      "/content/field-day-2008": "/events/field-day/",
+      "/content/field-day-2013": "/events/field-day/",
+      "/content/field-day-2016-1": "/events/field-day/",
+      "/content/field-day-2017": "/events/field-day/",
+      "/content/open-house": "/events/open-house/",
+      "/event-types/club-gatherings": "/events/",
+      "/newsletter": "/newsletter/",
+      "/node/2": "/meetings/",
+      "/node/174": "/meetings/174/",
+      "/node/175": "/meetings/175/",
+      "/node/177": "/meetings/177/",
+      "/node/178": "/meetings/178/",
+      "/node/179": "/meetings/179/",
+      "/node/180": "/meetings/180/",
+      "/node/181": "/meetings/181/",
+      "/node/182": "/meetings/182/",
+      "/node/183": "/meetings/183/",
+      "/node/184": "/meetings/184/",
+      "/node/185": "/meetings/185/",
+      "/node/203": "/meetings/203/",
+      "/node/204": "/meetings/204/",
+      "/node/205": "/meetings/205/",
+      "/node/206": "/meetings/206/",
+      "/node/207": "/meetings/207/",
+      "/node/208": "/meetings/208/",
+      "/node/209": "/meetings/209/",
+      "/node/210": "/meetings/210/",
+      "/node/215": "/meetings/215/",
+      "/node/216": "/meetings/216/",
+      "/node/217": "/meetings/217/",
+      "/node/218": "/meetings/218/",
+      "/node/219": "/meetings/219/",
+      "/node/224": "/meetings/224/",
+      "/photo-gallery": "/events/",
+      "/photo-gallery/club-events": "/events/",
+      "/photo-gallery/club-gatherings": "/events/club-picnic/",
+      "/photo-gallery/field-day": "/events/field-day/",
+      "/photo-gallery/open-house": "/events/open-house/",
+      "/photo-gallery/other": "/events/",
+      "/races": "/races/",
+      "/repeaters": "/repeaters/",
+      "/skywarn": "/skywarn/",
+      "/taxonomy/term/46": "/archive/newsletter/",
+      "/taxonomy/term/46/feed": "/archive/newsletter/feed.xml",
+      "/web-links": "/web-links/"
+    };
+    var path = window.location.pathname.replace(/\/$/, '');
+    var search = window.location.search;
+    var key = path + search;
+    var dest = REDIRECTS[key] || REDIRECTS[path];
+    if (dest) { window.location.replace(dest); return; }
+  })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&family=Roboto+Slab:wght@600;700&family=Roboto+Mono&display=swap">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="icon" href="/docs/media/farc_logo_0.png" type="image/png">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="site-header" role="banner">
+    <div class="container header-inner">
+      <a href="/" class="site-logo">
+        <img src="/docs/media/farc_logo_0.png" alt="Fulton Amateur Radio Club" width="48" height="48">
+        <div class="site-brand">
+          <span class="site-name">Fulton Amateur Radio Club</span>
+          <span class="site-callsign">W2OSC</span>
+        </div>
+      </a>
+      <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Toggle navigation">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+      <nav id="primary-nav" aria-label="Primary navigation">
+        <ul class="nav-list">
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/meetings/">Meetings</a></li>
+          <li class="has-dropdown">
+            <a href="/events/" aria-haspopup="true" aria-expanded="false">Events &amp; Photos</a>
+            <ul class="dropdown">
+              <li><a href="/events/field-day/">Field Day</a></li>
+              <li><a href="/events/christmas-party/">Christmas Party</a></li>
+              <li><a href="/events/club-picnic/">Club Picnic</a></li>
+              <li><a href="/events/open-house/">Open House</a></li>
+            </ul>
+          </li>
+          <li><a href="/repeaters/">Repeaters</a></li>
+          <li class="has-dropdown">
+            <a href="/races/" aria-haspopup="true" aria-expanded="false">Emergency Comms</a>
+            <ul class="dropdown">
+              <li><a href="/races/">RACES</a></li>
+              <li><a href="/skywarn/">SKYWARN</a></li>
+            </ul>
+          </li>
+          <li><a href="/license-courses/">License &amp; Courses</a></li>
+          <li><a href="/scholarship/">Scholarship</a></li>
+          <li><a href="/web-links/">Links</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <div class="container" style="padding: 4rem 1.25rem; text-align: center;">
+      <h1 style="font-size: 5rem; color: var(--color-primary); margin-bottom: 0.5rem;">404</h1>
+      <h2>Page Not Found</h2>
+      <p style="font-size: 1.1rem; margin: 1rem 0 2rem; color: var(--color-text-secondary);">
+        The page you&rsquo;re looking for doesn&rsquo;t exist or may have moved.<br>
+        If you followed an old link, you should be redirected automatically.
+      </p>
+      <a href="/" class="btn btn-primary">Return to Home</a>
+      &nbsp;
+      <a href="/meetings/" class="btn btn-outline">View Meetings</a>
+    </div>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container footer-inner">
+      <div class="footer-col">
+        <img src="/docs/media/farc_logo_0.png" alt="Fulton Amateur Radio Club" width="64" height="64">
+        <p>Fulton Amateur Radio Club (<span class="callsign">W2OSC</span>)<br>Serving Oswego County, NY since 1957.</p>
+      </div>
+      <div class="footer-col">
+        <h3>Quick Links</h3>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/meetings/">Meetings</a></li>
+          <li><a href="/events/">Events &amp; Photos</a></li>
+          <li><a href="/repeaters/">Repeaters</a></li>
+          <li><a href="/races/">RACES</a></li>
+          <li><a href="/skywarn/">SKYWARN</a></li>
+          <li><a href="/license-courses/">License &amp; Courses</a></li>
+          <li><a href="/scholarship/">Scholarship</a></li>
+          <li><a href="/web-links/">Links</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h3>Contact</h3>
+        <p>General: <a href="mailto:info@fultonamateurradioclub.org">info@fultonamateurradioclub.org</a></p>
+        <p>RACES Officer: <a href="mailto:kd2dvc@arrl.net">kd2dvc@arrl.net</a></p>
+        <p>Exams: <a href="mailto:ww2y@arrl.net">ww2y@arrl.net</a></p>
+        <p><a href="https://www.facebook.com/fultonamateurradioclub" rel="noopener noreferrer">Facebook</a> &middot; <a href="https://twitter.com/FultonArc" rel="noopener noreferrer">Twitter/X</a></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <p>&copy; 2025 Fulton Amateur Radio Club (<span class="callsign">W2OSC</span>). All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/js/main.js" defer></script>
+</body>
+</html>
